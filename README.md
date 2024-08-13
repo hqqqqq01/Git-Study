@@ -1,2 +1,2 @@
-# Git-Study
-学习GIt操作。
+# 这是README。
+README 内容。
